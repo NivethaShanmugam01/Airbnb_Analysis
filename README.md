@@ -1,5 +1,9 @@
 # Airbnb_Analysis
 
+## Explore the PowerBi Dashboard
+https://app.powerbi.com/groups/me/reports/1cff837e-aa0d-46e5-8127-2b3e74c7f496/ReportSection?experience=power-bi
+
+
 ## Project Overview
 
 This project focuses on analyzing Airbnb data to gain insights into pricing variations, availability patterns, and location-based trends in the travel industry, property management, and tourism domain. The project uses MongoDB Atlas for data storage and retrieval, Python for data preprocessing, visualization, and interactive web application development with Streamlit. Additionally, it employs PowerBI or Tableau to build a comprehensive dashboard for presenting key insights.
